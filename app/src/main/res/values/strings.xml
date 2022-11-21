@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rapturing Iridescence</string>
+
+    <string name="facebook_app_id">530024912018948</string>
+    <string name="fb_login_protocol_scheme">fb530024912018948</string>
+    <string name="image_chooser">Choose Image</string>
+
+    <string name="level_1">Level : 1</string>
+    <string name="you_loose_if_you_click_nthe_red_ball">You loose if you click \nthe red ball</string>
+    <string name="score">Score:</string>
+    <string name="restart_level">Restart Level</string>
+    <string name="restart_game">Restart Game</string>
+</resources>
